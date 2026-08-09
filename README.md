@@ -1,28 +1,44 @@
 <div align="center">
 
-<!-- Header con degradado -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:F72585,25:7209B7,50:3A0CA3,75:4361EE,100:4CC9F0&height=160&section=header&text=reconexion&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+```
+⠀⠀⠀⠀⠀⠀⣀⣤⡤⠀⠀⠀
+⠀⠀⠀⠀⢀⣾⣿⠋⠀
+⠀⠀⠀⣠⣾⣿⡟⠀⠀
+⠀⠀⢸⠛⠉⢹⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠄⠠⣀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⡘⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠖⠉⠀⠀⠀⣾⣿⣦⡀⠀⠀⠀⠀⠀
+⠀⠀⡇⠀⠀⠀⢡⠄⠀⠀⣀⣀⣀⣠⠊⠀⠀⠀⠀⡠⠞⠛⠛⠛⠛⠀⠀⠀⠀⠀
+⠀⠀⢃⠀⠀⠀⠀⠗⠚⠉⠉⠀⠈⠁⠀⠀⠀⢀⡔⠁⠀
+⠀⠀⠸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣶⣄⠲⡎⠀⠀
+⠀⠀⠀⠃⠀⠀⢠⣤⡀⠀⠀⠀⠀⣿⣿⣿⠀⠘⡄
+⠀⠀⠀⡆⠀⠀⣿⣿⡇⠀⠀⠀⠀⠈⠛⠉⣴⣆⢹⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣇⢰⡧⣉⡉⠀⠀⢀⡀⠀⣀⣀⣠⣿⡷⢠⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢻⠘⠃⠈⠻⢦⠞⠋⠙⠺⠋⠉⠉⠉⢡⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠳⢄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠋⠀⠀
+```
 
-<!-- Texto animado, fuente tipo LCD/dispositivo -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1000&color=4CC9F0&center=true&vCenter=true&width=600&lines=Apasionado+por+la+Cybersecurity;Mobile+Dev+%7C+Backend+%7C+Frontend;Web%3A+React+%7C+ML%3A+en+desarrollo;The+Strokes+%E2%96%B6+rock+%26+code" alt="Typing SVG" />
+<br>
+
+<img src="./assets/ascii-banner.svg" alt="reconexion" width="700"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=Apasionado+por+la+Cybersecurity;Mobile+Dev+%7C+Backend+%7C+Frontend;Web%3A+React+%7C+ML%3A+en+desarrollo;The+Strokes+%E2%96%B6+rock+%26+code" alt="Typing SVG" />
+
+<br>
+
+<img src="./assets/divider.svg" alt="" width="500"/>
 
 </div>
 
 <br>
-
-```
- ██▀███  ▓█████  ▄████▄   ▒█████   ███▄    █ ▓█████ ▒██   ██▒ ██▓ ▒█████   ███▄    █
-▓██ ▒ ██▒▓█   ▀ ▒██▀ ▀█  ▒██▒  ██▒ ██ ▀█   █ ▓█   ▀ ▒▒ █ █ ▒░▓██▒▒██▒  ██▒ ██ ▀█   █
-▓██ ░▄█ ▒▒███   ▒▓█    ▄ ▒██░  ██▒▓██  ▀█ ██▒▒███   ░░  █   ░▒██▒▒██░  ██▒▓██  ▀█ ██▒
-▒██▀▀█▄  ▒▓█  ▄ ▒▓▓▄ ▄██▒▒██   ██░▓██▒  ▐▌██▒▒▓█  ▄  ░ █ █ ▒ ░██░▒██   ██░▓██▒  ▐▌██▒
-░██▓ ▒██▒░▒████▒▒ ▓███▀ ░░ ████▓▒░▒██░   ▓██░░▒████▒▒██▒ ▒██▒░██░░ ████▓▒░▒██░   ▓██░
-```
 
 <div align="center">
 
 ### `~ whoami`
 
 </div>
+
+<div align="center">
 
 ```yaml
 nombre:       Gael
@@ -34,38 +50,44 @@ ubicacion:    México
 now_playing:  The Strokes ▶ rock & code
 ```
 
+</div>
+
 <br>
 
 <div align="center">
+
+<img src="./assets/divider.svg" alt="" width="500"/>
 
 ### `~ stack`
 
-</div>
+<br>
 
-<div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=4CC9F0)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=4CC9F0)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=F72585)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-3A0CA3?style=for-the-badge&logo=react&logoColor=4CC9F0)
-![Node.js](https://img.shields.io/badge/Node.js-7209B7?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4361EE?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-4CC9F0?style=for-the-badge&logo=docker&logoColor=black)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-2563EB?style=for-the-badge&logo=flutter&logoColor=FACC15)
+![Dart](https://img.shields.io/badge/Dart-3B82F6?style=for-the-badge&logo=dart&logoColor=FACC15)
+![Kotlin](https://img.shields.io/badge/Kotlin-DC2626?style=for-the-badge&logo=kotlin&logoColor=FACC15)
+![Go](https://img.shields.io/badge/Go-EF4444?style=for-the-badge&logo=go&logoColor=0d0d0d)
+![Python](https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=FACC15)
+![React](https://img.shields.io/badge/React-3B82F6?style=for-the-badge&logo=react&logoColor=FACC15)
+![Node.js](https://img.shields.io/badge/Node.js-F59E0B?style=for-the-badge&logo=node.js&logoColor=0d0d0d)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=FACC15)
+![AWS](https://img.shields.io/badge/AWS-DC2626?style=for-the-badge&logo=amazon-aws&logoColor=FACC15)
+![Docker](https://img.shields.io/badge/Docker-3B82F6?style=for-the-badge&logo=docker&logoColor=FACC15)
+![Godot](https://img.shields.io/badge/Godot-1E3A8A?style=for-the-badge&logo=godotengine&logoColor=FACC15)
+![Blender](https://img.shields.io/badge/Blender-EF4444?style=for-the-badge&logo=blender&logoColor=FACC15)
 
 </div>
 
 <br>
 
 <div align="center">
+
+<img src="./assets/divider.svg" alt="" width="500"/>
 
 ### `~ proyectos`
 
 </div>
+
+<div align="center">
 
 > [!TIP]
 > **Tinta** — App de club de lectura con IA on-device (RAG). Módulo de recomendaciones ML con TF-IDF + K-Means.
@@ -79,11 +101,17 @@ now_playing:  The Strokes ▶ rock & code
 > [!TIP]
 > **Pocket** — Toolbox de cybersecurity en Flutter, inspirado en Flipper Zero.
 
+</div>
+
 <br>
 
 <div align="center">
 
+<img src="./assets/divider.svg" alt="" width="500"/>
+
 ### `~ certificaciones`
+
+<br>
 
 <table>
 <tr>
@@ -113,9 +141,13 @@ now_playing:  The Strokes ▶ rock & code
 
 <div align="center">
 
+<img src="./assets/divider.svg" alt="" width="500"/>
+
 ### `~ en camino`
 
 </div>
+
+<div align="center">
 
 ```diff
 + Profundizando en cybersecurity ofensiva
@@ -124,9 +156,13 @@ now_playing:  The Strokes ▶ rock & code
 + Sistemas de aprendizaje autodirigido
 ```
 
+</div>
+
 <br>
 
 <div align="center">
+
+<img src="./assets/divider.svg" alt="" width="500"/>
 
 <details>
 <summary><b>🎸 más sobre mí</b></summary>
@@ -134,8 +170,12 @@ now_playing:  The Strokes ▶ rock & code
 
 En mis tiempos libres juego videojuegos, exploro cyberseguridad por mi cuenta y escucho mucha música — banda favorita: **The Strokes**.
 
+💀 *"El que no vive para servir, no sirve para vivir"* — pero en modo dev, sirvo para romper y arreglar cosas.
+
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CC9F0,50:3A0CA3,100:F72585&height=90&section=footer"/>
+<br>
+
+<img src="./assets/ascii-banner.svg" alt="reconexion" width="350"/>
 
 </div>
